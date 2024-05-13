@@ -28,3 +28,13 @@ F:\Visual\JeuCasino\JeuCasino\obj\Debug\JeuCasino.csproj.GenerateResource.cache
 F:\Visual\JeuCasino\JeuCasino\obj\Debug\JeuCasino.csproj.CoreCompileInputs.cache
 F:\Visual\JeuCasino\JeuCasino\obj\Debug\JeuCasino.exe
 F:\Visual\JeuCasino\JeuCasino\obj\Debug\JeuCasino.pdb
+C:\Users\Tunouki\Desktop\JeuCasino-main\bin\Debug\JeuCasino.exe.config
+C:\Users\Tunouki\Desktop\JeuCasino-main\bin\Debug\JeuCasino.exe
+C:\Users\Tunouki\Desktop\JeuCasino-main\bin\Debug\JeuCasino.pdb
+C:\Users\Tunouki\Desktop\JeuCasino-main\obj\Debug\JeuCasino.csproj.AssemblyReference.cache
+C:\Users\Tunouki\Desktop\JeuCasino-main\obj\Debug\JeuCasino.Form1.resources
+C:\Users\Tunouki\Desktop\JeuCasino-main\obj\Debug\JeuCasino.Properties.Resources.resources
+C:\Users\Tunouki\Desktop\JeuCasino-main\obj\Debug\JeuCasino.csproj.GenerateResource.cache
+C:\Users\Tunouki\Desktop\JeuCasino-main\obj\Debug\JeuCasino.csproj.CoreCompileInputs.cache
+C:\Users\Tunouki\Desktop\JeuCasino-main\obj\Debug\JeuCasino.exe
+C:\Users\Tunouki\Desktop\JeuCasino-main\obj\Debug\JeuCasino.pdb
